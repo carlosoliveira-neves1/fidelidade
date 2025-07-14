@@ -1,0 +1,14 @@
+# não envie a venv nem caches
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+
+# configurações locais e git
+.env
+.vscode/
+.git/
+.gitignore
+
+# logs, data e outros
+*.log
